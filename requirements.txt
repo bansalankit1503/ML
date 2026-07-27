@@ -1,0 +1,2 @@
+# Install the package together with documentation and test tooling.
+-e .[docs,test]
